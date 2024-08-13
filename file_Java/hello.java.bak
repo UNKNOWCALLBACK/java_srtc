@@ -1,0 +1,10 @@
+class hello {
+    public static void main(String[] args) {
+        int myInt = 5;
+        String s;
+        s = "init";
+        System.out.println(s);
+        
+        System.out.println(myInt);
+    }
+}
